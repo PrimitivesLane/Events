@@ -1,2 +1,3 @@
 # Events
-上海区块链前沿技术分享会过往活动记录
+Past events
+
