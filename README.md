@@ -11,7 +11,7 @@
 
 ## 前沿技术研讨会
 
-|No.|	Date|	Roast Master|	Topic|	Notes|	News|
+|No.|	Date|	speakers |	Topic|	Notes|	News|
 |--|----------|-------------|-----|-----|----|
 |0 |2020-06-10| | 数字身份、数字资产与数据隐私 |[摘要](https://github.com/ShanghaiAdvancedTechSeminar/Events/blob/main/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A/%230%20%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A%202020-06-10.md) | |
 |1 |2020-07-02| Steve (Loopring) <br> Marvin (Phala)| 区块链可扩展性的解决方案 | [摘要](https://github.com/ShanghaiAdvancedTechSeminar/Events/blob/main/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A/%231%20%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A%202020-07-02.md )| |
