@@ -22,5 +22,5 @@
 |6 |2020-12-24| 海虹(Meson.network) <br> 潘致雄(链闻)  | 链上与链下存储的探索+以太坊合并大猜想 |[摘要](https://github.com/ShanghaiAdvancedTechSeminar/Events/blob/main/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A/%236%20%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A%202020-12-24.md ) | |
 |7 |2021-01-28| 姚翔 <br> 余文卿(Chainlink) <br> 刘力心(Cobo Vault) | 如何夯实区块链的底层设施：账户抽象、硬件钱包和预言机 |[摘要](https://github.com/ShanghaiAdvancedTechSeminar/Events/blob/main/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A/%237%20%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A%202021-01-28.md ) | |
 |8 |2021-03-09| 杨叔 <br> 少平(Sparkpool)  | 物理世界和区块链世界的安全 |[摘要] | |
-|9 |2021-04-20| 郭宇(安比实验室) <br> 张卓(Fluidex)<br> 姚翔  | 物理世界和区块链世界的安全 |[摘要] | |
+|9 |2021-04-20| 郭宇(安比实验室) <br> 张卓(Fluidex)<br> 姚翔  | 零知识证明专题 |[摘要] | |
 
