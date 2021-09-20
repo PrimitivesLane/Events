@@ -24,7 +24,7 @@
 |8 |2021-03-09| 杨叔 <br> 少平(Sparkpool)  | 物理世界和区块链世界的安全 |[摘要] | |
 |9 |2021-04-20| 郭宇(安比实验室) <br> 张卓(Fluidex)<br> 姚翔  | 零知识证明专题 |[摘要](https://github.com/PrimitivesLane/Events/blob/main/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A/%239%20%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A%202021-04-20.md) | |
 |10 |2021-06-22| Chester*(原语里弄研究员) <br> Floyd(Tulip) <br> 杨敏(DAS) <br>姚翔  | 周年纪念活动 |[摘要] | |
-|11 |2021-07-22| 曾汨(EthFans) <br> Raphina*(原语里弄研究员) <br> Winky*(原语里弄研究员) <br>姚翔  | 伦敦升级专题 |[摘要] | |
+|11 |2021-07-22| 曾汨(EthFans) <br> Raphina*(原语里弄研究员) <br> Winky*(原语里弄研究员) <br>姚翔  | 伦敦升级专题 |[摘要](https://github.com/PrimitivesLane/Events/blob/main/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A/%2311%20%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E4%BC%9A%202021-07-22.md) | |
 |12 |2021-09-16| 各钱包代表 | 钱包专题：钱包的昨天今天明天 |[摘要] | |
 
 
